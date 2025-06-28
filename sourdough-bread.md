@@ -1,5 +1,12 @@
 # Sourdough Bread/Buns
 
+Recipe for sourdough buns or bread. Creates a 900g boule or ~ 9 sourdough buns.
+
+![Buns](assets/F20AD649-045E-4DBE-9763-E745F5028629_1_105_c.jpeg)
+![Boule](assets/EBD5D45A-D018-435C-A11E-CE4339B019FA_1_102_o.jpeg)
+
+
+
 ## Ingredients
 
 | **Ingredient**                                          | **Weight** | **Baker’s Percentage** |
